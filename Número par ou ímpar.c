@@ -2,8 +2,7 @@
 
 int main() {
     int numero;
-    char resposta;
-   do  {
+    {
 
         printf("Insira um numero:\n");
         scanf("%d", &numero);
