@@ -1,4 +1,4 @@
-// Escreva um programa que leia do usu·rio 2 valores de um tipo "inteiro". O programa deve imprimir "EQUAL" se ambos os valores forem iguais. Caso contr·rio, o programa deve imprimir "NOT EQUAL".
+// Escreva um programa que leia do usu√°rio 2 valores de um tipo "inteiro". O programa deve imprimir "EQUAL" se ambos os valores forem iguais. Caso contr√°rio, o programa deve imprimir "NOT EQUAL".
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
